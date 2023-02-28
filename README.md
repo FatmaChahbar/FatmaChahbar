@@ -1,7 +1,7 @@
 - 👋 Hello Everyone, I am Fatma CHAHBAR(Intissar), 27 years old, a Networks and telecommunications Engineer 👨‍🎓 from Algeria
 - 👀 I am a Google Certified Tensorflow Developer, and I am also Professional Data Analyst, and Machine Learning Passionate 👨‍🔬.
 - 🌱 I’m currently learning a new development language 📚 (Java Script and ReactJS).
-- 👨‍🎓 I'm a PhD Student in Machine Learning <3.
+- 👨‍🎓 I am a PhD student specializing in machine learning.
 
 
 <!---
