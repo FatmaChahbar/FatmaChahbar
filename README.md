@@ -1,4 +1,5 @@
-- 👋 Hello Everyone, I am Fatma CHAHBAR(Intissar), 27 years old, a PhD student specializing in machine learning🎓, from Algeria.
+- 👋 Hello Everyone, I am Fatma CHAHBAR(Intissar), 28 years old, a PhD student specializing in machine learning🎓, from Algeria.
+-My Ph.D. research focuses on the analysis and reconstruction of 3D MRI brain tumor images to assist in diagnosis.
 - 👀 I am a Google Certified Tensorflow Developer, and I am also Professional Data Analyst, and Machine Learning Passionate 👨‍🔬.
 - 🌱 I’m currently learning a new development language 📚 (Java Script and ReactJS).
 
